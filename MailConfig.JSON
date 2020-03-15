@@ -1,0 +1,10 @@
+{
+    "from": "tm1.alert@gmail.com",
+    "to": "username@email.com",
+    "priority": "High",
+    "smtpserver": "smtp.gmail.com",
+    "port": "587",
+    "usessl": "True",
+    "user": "tm1.alert@gmail.com",
+    "password": "Password123%"
+}
